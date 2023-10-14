@@ -30,7 +30,7 @@
   "type": "module",
   "dependencies": {
     "@clerk/clerk-js": "^4.61.0",
-    "@clerk/clerk-sdk-node": "^4.12.12",
+    "@clerk/clerk-sdk-node": "^4.12.13",
     "@sveltejs/adapter-auto": "^2.1.0"
   }
 }
